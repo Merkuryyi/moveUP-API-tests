@@ -6,6 +6,11 @@
 ## Содержимое
 - `QamoveUp.postman_collection.json` — коллекция запросов для тестирования REST API
 - `QamoveUp.postman_environment.json` — файл окружения с переменными
+- `Bug-reports` — файл с баг-репортами
+- `Design-test` — файл с описанными техниками тест-дизайна
+- `Test-cases` — файл с тест-кейсами
+- `Test-plan` — файл с тест-планом
+- `Test-Report` — файл с отчетом о тестировании
 
 ## Что тестируется
 - Авторизация (получение токена)
@@ -17,3 +22,4 @@
 - Postman
 - JavaScript (pm.test)
 - REST API
+- Ручное тестирование
